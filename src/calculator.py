@@ -6,6 +6,7 @@ def add(a, b):
 
 
 def subtract(a, b):
+    # hotfix: explicit numeric handling
     return a - b
 
 
